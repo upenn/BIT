@@ -8,4 +8,4 @@ You can [access the BIT wiki here](https://github.com/upenn/BIT/wiki).
 
 ## BIT Onboarding
 
-The BIT onboarding process is here (<- needs link to new home)
+The BIT onboarding process is detailed at [https://github.com/upenn/neuropsych](https://github.com/upenn/neuropsych)
