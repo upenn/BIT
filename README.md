@@ -1,6 +1,6 @@
 ## BIT
 
-The official repository of the Neurodevelopment and Psychosis Section Bioinformatics and IT team.
+The official Neurodevelopment and Psychosis Section Bioinformatics and IT team repository.
 
 ## BIT Wiki
 
