@@ -4,7 +4,7 @@ The official repository of the Neurodevelopment and Psychosis Section Bioinforma
 
 ## BIT Wiki
 
-You can access the BIT wiki at [(https://github.com/upenn/BIT/wiki)](https://github.com/upenn/BIT/wiki).
+You can access the BIT wiki at [https://github.com/upenn/BIT/wiki](https://github.com/upenn/BIT/wiki).
 
 ## BIT Onboarding
 
